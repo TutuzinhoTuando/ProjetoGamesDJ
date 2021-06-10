@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Meu Projeto/Scenes/Game02.unity
     guid: 419869add0145ef4ebcada85459b07eb
+  - enabled: 1
+    path: Assets/Meu Projeto/Scenes/Game03.unity
+    guid: 29f14de3fc99909418c517b0449f318b
+  - enabled: 1
+    path: Assets/Meu Projeto/Scenes/Fim.unity
+    guid: ef6340631fcfa8f479f207bcd96d8487
   m_configObjects: {}

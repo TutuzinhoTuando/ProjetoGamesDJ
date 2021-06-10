@@ -23,10 +23,7 @@ public class FimFase : MonoBehaviour
 
             foreach (var item in outro.GetComponent<PlayerController>().inventario)
             {
-                if(item.name == itemNecessario.name)
-                {
-                    quantidadeEncontrada++;
-                }
+                    quantidadeEncontrada++;  
             }
 
             if(quantidadeEncontrada >= qtdNecessaria)
