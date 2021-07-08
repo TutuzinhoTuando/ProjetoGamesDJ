@@ -555,6 +555,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7268183466822630378, guid: 349f9b9424ba50b4c91b67264fff637e,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 145502f4b84448843b9e9bb2177e87cf, type: 2}
     - target: {fileID: 7268183466822630379, guid: 349f9b9424ba50b4c91b67264fff637e,
         type: 3}
       propertyPath: m_Name
@@ -1567,6 +1572,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 8444773266416833130, guid: 44c7308c7be58e74f9ad7b293ea6fad8,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 145502f4b84448843b9e9bb2177e87cf, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44c7308c7be58e74f9ad7b293ea6fad8, type: 3}
 --- !u!1 &2119261806
@@ -1827,6 +1837,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Plataforma
       objectReference: {fileID: 0}
+    - target: {fileID: 4295344852264280284, guid: c7899707bc039ea418cd3841a3f1e50f,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 6200000, guid: 145502f4b84448843b9e9bb2177e87cf, type: 2}
     - target: {fileID: 4295344852264280286, guid: c7899707bc039ea418cd3841a3f1e50f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2120,5 +2135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameController
       objectReference: {fileID: 0}
+    - target: {fileID: 9212425512510261122, guid: 86a4bdd5ffa462f4da040472f4395ca4,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 853016d75cf70f8449fe763893ab2e84, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86a4bdd5ffa462f4da040472f4395ca4, type: 3}
